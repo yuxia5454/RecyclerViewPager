@@ -1,0 +1,3 @@
+# RecyclerViewPager
+
+一个循环用三个view的viewpager，viewpager里装recyclerview可实现循环利用，主要我们的需求要求滑动翻页，所以做了个这个希望可以提高点效率，用法很简单，代码里有例子
